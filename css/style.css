@@ -1,0 +1,21 @@
+@font-face {
+    font-family: GlacialIndifference;
+    src: url(../fonts/GlacialIndifference-Regular.otf);
+}
+
+.navbar {
+  font-family: GlacialIndifference;
+  z-index: 9999;
+}
+
+.navbar-nav {
+  text-shadow: 0 0 20px black;
+}
+
+.carousel-inner {
+  margin-top: -73px;
+}
+
+.footer {
+  min-height: 250px;
+}
