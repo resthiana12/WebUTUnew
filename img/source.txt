@@ -1,3 +1,6 @@
 fish: https://unsplash.com/photos/k6BHLfw_jUg
 
 corn: https://unsplash.com/photos/WECCM_EZnbw
+
+ikanteri: https://www.google.co.id/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiKoeyjsNbdAhXJqI8KHeXiADAQjxx6BAgBEAI&url=http%3A%2F%2Fwww.tribunnews.com%2Fimages%2Fregional%2Fview%2F1734373%2Fikan-teri-olahan-layeun&psig=AOvVaw0DEwAiG5Y8UX9BbXUhKY6H&ust=1537972522267663
+

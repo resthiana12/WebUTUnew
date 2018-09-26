@@ -14,6 +14,23 @@
 
 .carousel-inner {
   margin-top: -73px;
+  height: 600px;
+}
+
+.agro {
+	background-image: url("../img/carousel/corn.jpg");
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.marine {
+	background-image: url("../img/carousel/fish.jpg");
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
 }
 
 .footer {
